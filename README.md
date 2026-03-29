@@ -29,13 +29,6 @@ No more overthinking — just click and get your next meal 😎
 
 ---
 
-## 📸 Preview  
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Food+App+Preview" />
-</p>
-
----
-
 ⭐ Support
 
 If you like this project:
